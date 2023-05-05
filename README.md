@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Camilo</h1>
-<h3 align="center">I am a passionate Colombian front-end developer.</h3>
+<h3 align="center">I am a passionate Colombian back-end developer.</h3>
 
 - 🔭 I’m currently working on **HelperPeople**
 
