@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HelperPeople**
 
-- 🌱 I’m currently learning **Angular and Python**
+- 🌱 I’m currently learning **NodeJS y MongoDB**
 
 - 👯 I’m looking to collaborate on **HelperPeople**
 
